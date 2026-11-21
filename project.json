@@ -1,0 +1,14 @@
+{
+  "id": 22,
+  "title": "Occupational Prestige",
+  "question": "How are occupational education scores and prestige associated?",
+  "x": "education",
+  "y": "prestige",
+  "mode": "relation",
+  "caveat": "Occupational aggregates and historical scores cannot represent individual outcomes.",
+  "action": "Review source score definitions before interpreting magnitude.",
+  "csv": "https://vincentarelbundock.github.io/Rdatasets/csv/carData/Duncan.csv",
+  "doc": "https://vincentarelbundock.github.io/Rdatasets/doc/carData/Duncan.html",
+  "metric_label": "mean prestige",
+  "method": "Complete-pair scatter plot of education and prestige, with Pearson and Spearman correlations. No regression adjustment or causal claim."
+}

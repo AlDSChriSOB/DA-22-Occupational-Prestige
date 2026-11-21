@@ -1,0 +1,18 @@
+{
+  "project": "Occupational Prestige",
+  "executed_utc": "2026-11-21T10:14:14.327733+00:00",
+  "source": "https://vincentarelbundock.github.io/Rdatasets/csv/carData/Duncan.csv",
+  "documentation": "https://vincentarelbundock.github.io/Rdatasets/doc/carData/Duncan.html",
+  "sha256": "120e9430b07ec3e0959cbe19016fce842ff9b2d854b2c1b5b602be4a0bc86ae6",
+  "raw_rows": 45,
+  "analysis_rows": 45,
+  "excluded_rows": 0,
+  "exact_duplicate_rows": 0,
+  "duplicates_policy": "Retained; duplicate values do not necessarily mean duplicate entities.",
+  "python": "3.12.14",
+  "pandas": "2.2.3",
+  "numpy": "2.3.5",
+  "matplotlib": "3.10.8",
+  "pearson": 0.8519156284206673,
+  "spearman": 0.8393051393952279
+}

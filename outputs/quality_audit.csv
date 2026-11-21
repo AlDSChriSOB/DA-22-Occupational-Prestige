@@ -1,0 +1,6 @@
+column,dtype,missing,missing_pct,distinct
+rownames,object,0,0.0,45
+type,object,0,0.0,3
+income,int64,0,0.0,30
+education,int64,0,0.0,36
+prestige,int64,0,0.0,37
